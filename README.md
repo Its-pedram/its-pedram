@@ -1,7 +1,7 @@
 ## Howdy! 👋
 > I write software I actually use.
 
-| Information | Value |
+| Key | Value |
 |--|--|
 |Contact Me | me@pedram.tech |
 |Skills | Python, Java, C++, C# (Game Dev), System Administration, Bash|
